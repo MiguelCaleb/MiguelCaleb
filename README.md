@@ -11,4 +11,4 @@
 
 ![HackerRealityColoredKeyboardGIF](https://github.com/user-attachments/assets/76e8d29c-4fa9-4042-88b4-222ea2aa1758)
 🧑‍💻
-![ProgrammerRoundedEdgesGIF](https://github.com/user-attachments/assets/26003e75-0939-4705-aeec-22cd297a719c)
+[](https://photos.google.com/photo/AF1QipPH_mAU5NjbT8yvDoa71hhOnvYFjyi4z1kZX20E)
