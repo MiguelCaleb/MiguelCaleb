@@ -1,6 +1,6 @@
 ## Olá eu sou o Miguel Caleb! 👋
 
-- 🔭 Estou estudando progreamação👌🧑‍💻
+- 🔭 Estou estudando programação👌🧑‍💻
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 pronomes: ele/Dele
@@ -14,7 +14,7 @@
 [](https://photos.google.com/photo/AF1QipPH_mAU5NjbT8yvDoa71hhOnvYFjyi4z1kZX20E)
 ### Bio do GitHub
 
- 👋 Olá, sou Muaci, seja Bem-vindo(a) ao meu perfil! Sou apaixonado(a) por programação e estou em constante busca por conhecimento e desafios que me permitam aprimorar minhas habilidades
+ 👋 Olá, sou Miguel Caleb, seja Bem-vindo(a) ao meu perfil! Sou apaixonado(a) por programação e estou em constante busca por conhecimento e desafios que me permitam aprimorar minhas habilidades
 
 🌱 Estou sempre em busca de desafios e oportunidades para colaborar em projetos inovadores.
  
