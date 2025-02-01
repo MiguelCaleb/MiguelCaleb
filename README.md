@@ -34,7 +34,6 @@
 </div>
 
 <!-- GithubStats -->
-![Muaci GitHub stats](https://github-readme-stats.vercel.app/api?username=MuacidevJava&show_icons=true&theme=merko) 
 
 <!-- GIF -->
 <p align="left">
